@@ -31,7 +31,7 @@ This project scrapes Free-To-Air (FTA) TV channel data from YuppTV and generates
 
 ### Automated Updates
 
-This repository includes a GitHub Actions workflow (`.github/workflows/daily-run.yml`) that:
+This repository includes a GitHub Actions workflow (`.github/workflows/main.yml`) that:
 - Runs the scraper every day at 10:00 AM Kathmandu time (UTC+5:45).
 - Commits and pushes any changes to the JSON and M3U8 files automatically.
 
@@ -43,7 +43,7 @@ No manual intervention is needed for daily updates.
 - `requirements.txt` &mdash; Python dependencies.
 - `yuppie-fta.json` &mdash; Output: categorized channel data.
 - `yuppie-fta.m3u8` &mdash; Output: IPTV playlist.
-- `.github/workflows/daily-run.yml` &mdash; GitHub Actions workflow for automation.
+- `.github/workflows/main.yml` &mdash; GitHub Actions workflow for automation.
 
 ## License
 
