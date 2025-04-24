@@ -1,5 +1,6 @@
 import json
 import requests
+import os
 from typing import Dict, List
 
 def format_url(url):
@@ -110,6 +111,10 @@ def generate_playlist(json_file, playlist_file):
 if __name__ == "__main__":
     output_file = 'yuppie-fta.json'
     playlist_file = 'yuppie-fta.m3u8'
+    # Remove old files if they exist
+    for f in [output_file, playlist_file]:
+        if os.path.exists(f):
+            os.remove(f)
     convert_json_format(output_file)
     generate_playlist(output_file, playlist_file)
     print("JSON and Playlist have been generated successfully.")
