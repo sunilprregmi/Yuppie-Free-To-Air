@@ -1,6 +1,7 @@
 import json
 import requests
 import os
+from datetime import datetime
 from typing import Dict, List
 
 def format_url(url):
@@ -42,7 +43,10 @@ def convert_json_format(output_file):
               "spiritual", "movies", "lifestyle", "sports", 
               "educational", "others"]
     
-    new_format = {"feeds": []}
+    new_format = {
+        "date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "feeds": []
+    }
     
     for index, genre in enumerate(genres, 1):
         category = {
@@ -75,16 +79,14 @@ def convert_json_format(output_file):
         json.dump(new_format, f, indent=2)
 
 def generate_playlist(json_file, playlist_file):
-    # Read JSON data
     with open(json_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
-
-    # Create M3U8 playlist
+    now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     with open(playlist_file, 'w', encoding='utf-8') as f:
-        # Write M3U8 header
         f.write('#EXTM3U\n')
         f.write('# Only Free-To-Air Streams\n')
         f.write('# Scrapped by @sunilprregmi\n')
+        f.write(f'# Scrapped on {now_str}\n')
         f.write('# Relay server is for playback\n\n')
         
         # Process each channel in the feeds
@@ -111,7 +113,6 @@ def generate_playlist(json_file, playlist_file):
 if __name__ == "__main__":
     output_file = 'yuppie-fta.json'
     playlist_file = 'yuppie-fta.m3u8'
-    # Remove old files if they exist
     for f in [output_file, playlist_file]:
         if os.path.exists(f):
             os.remove(f)
