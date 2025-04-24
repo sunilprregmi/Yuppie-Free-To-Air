@@ -31,6 +31,7 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git rm -f yuppie-fta.json yuppie-fta.m3u8 || true
           git add yuppie-fta.json yuppie-fta.m3u8
           git commit -m "Update yuppie-fta.json and yuppie-fta.m3u8 [auto]" || echo "No changes to commit"
           git push
