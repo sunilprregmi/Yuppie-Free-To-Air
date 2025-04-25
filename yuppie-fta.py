@@ -101,7 +101,7 @@ def generate_playlist(json_file, playlist_file):
                 channel_slug = channel['channel_slug']
                 
                 # Create channel URL
-                channel_url = f'https://public-relay.sunilprasad.com.np/yuppLive/{channel_slug}/master.m3u8'
+                channel_url = f'https://in1.sunilprasad.com.np/yuppLive/{channel_slug}/master.m3u8'
                 
                 # Write channel info
                 f.write(f'#EXTINF:-1 tvg-id="{channel_id}" tvg-chno="{channel_number}" tvg-name="{channel_slug}" tvg-logo="{channel_logo}" group-title="{category_name}", {channel_name}\n')
