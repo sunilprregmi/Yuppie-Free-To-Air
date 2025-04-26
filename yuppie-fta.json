@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-25 10:20:26",
+  "date": "2025-04-26 10:20:01",
   "feeds": [
     {
       "category_id": 1,
@@ -867,16 +867,6 @@
           "channel_slug": "puthiya-thalaimurai",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/puthiya-thalaimurai.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736318005706.png"
-        },
-        {
-          "channel_id": 111,
-          "channel_number": "503",
-          "channel_country": "IN",
-          "channel_category": "News",
-          "channel_name": "Thanthi TV",
-          "channel_slug": "thanthi-tv",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thanthi-tv.png",
-          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317397615.png"
         },
         {
           "channel_id": 119,
