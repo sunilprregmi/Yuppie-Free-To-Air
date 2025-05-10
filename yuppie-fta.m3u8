@@ -1,7 +1,7 @@
 #EXTM3U
 # Only Free-To-Air Streams
 # Scrapped by @sunilprregmi
-# Scrapped on 2025-05-09 10:22:36
+# Scrapped on 2025-05-10 10:20:40
 # Relay server is for playback
 
 #EXTINF:-1 tvg-id="249" tvg-chno="204" tvg-name="india-today" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fkszrn.png" group-title="News", India Today
@@ -682,12 +682,6 @@ https://in1.sunilprasad.com.np/yuppLive/coeur-ocean-tv/master.m3u8
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/latino-classic-channel/master.m3u8
 
-#EXTINF:-1 tvg-id="54" tvg-chno="295" tvg-name="docuvision" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mbncbj.png" group-title="Entertainment", Docuvision
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://in1.sunilprasad.com.np/yuppLive/docuvision/master.m3u8
-
 #EXTINF:-1 tvg-id="96" tvg-chno="296" tvg-name="mama-benz-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mama-benz-tv.png" group-title="Entertainment", Mama Benz TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -837,12 +831,6 @@ https://in1.sunilprasad.com.np/yuppLive/ibc-radio/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/jaihind-tv/master.m3u8
-
-#EXTINF:-1 tvg-id="186" tvg-chno="622" tvg-name="darshanatv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/darshanatv.png" group-title="Entertainment", DarshanaTV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://in1.sunilprasad.com.np/yuppLive/darshanatv/master.m3u8
 
 #EXTINF:-1 tvg-id="168" tvg-chno="623" tvg-name="kerala-vision" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kerala-vision.png" group-title="Entertainment", Kerala Vision
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1120,12 +1108,6 @@ https://in1.sunilprasad.com.np/yuppLive/sri-sankara-kannada/master.m3u8
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/lakshyatv/master.m3u8
 
-#EXTINF:-1 tvg-id="154" tvg-chno="802" tvg-name="channel-win" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/channel-win.png" group-title="Spiritual", Channel Win
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://in1.sunilprasad.com.np/yuppLive/channel-win/master.m3u8
-
 #EXTINF:-1 tvg-id="144" tvg-chno="511" tvg-name="sri-sankara-tamil" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sri-sankara-tamil.png" group-title="Spiritual", Sri Sankara Tamil
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1282,47 +1264,11 @@ https://in1.sunilprasad.com.np/yuppLive/pitaara-tv/master.m3u8
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/dabangg/master.m3u8
 
-#EXTINF:-1 tvg-id="69" tvg-chno="246" tvg-name="hd-travel-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hd-travel-tv.png" group-title="Lifestyle", HD Travel TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://in1.sunilprasad.com.np/yuppLive/hd-travel-tv/master.m3u8
-
-#EXTINF:-1 tvg-id="73" tvg-chno="246" tvg-name="heritage" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fndjia.png" group-title="Lifestyle", Heritage
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://in1.sunilprasad.com.np/yuppLive/heritage/master.m3u8
-
 #EXTINF:-1 tvg-id="4" tvg-chno="249" tvg-name="ndtv-goodtimes" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mxzyyw.png" group-title="Lifestyle", NDTV GoodTimes
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/ndtv-goodtimes/master.m3u8
-
-#EXTINF:-1 tvg-id="75" tvg-chno="250" tvg-name="heritage-tourism-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jbvjqc.png" group-title="Lifestyle", Heritage Tourism TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://in1.sunilprasad.com.np/yuppLive/heritage-tourism-tv/master.m3u8
-
-#EXTINF:-1 tvg-id="98" tvg-chno="254" tvg-name="4k-travel-tv-" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ootail.png" group-title="Lifestyle", 4K Travel TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://in1.sunilprasad.com.np/yuppLive/4k-travel-tv-/master.m3u8
-
-#EXTINF:-1 tvg-id="254" tvg-chno="305" tvg-name="arab-heritage-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lnrukp.png" group-title="Lifestyle", ARAB HERITAGE TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://in1.sunilprasad.com.np/yuppLive/arab-heritage-tv/master.m3u8
-
-#EXTINF:-1 tvg-id="263" tvg-chno="312" tvg-name="cuisine---culture" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kteody.png" group-title="Lifestyle", CUISINE & CULTURE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://in1.sunilprasad.com.np/yuppLive/cuisine---culture/master.m3u8
 
 #EXTINF:-1 tvg-id="264" tvg-chno="313" tvg-name="defiance-media" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jocyub.png" group-title="Lifestyle", DEFIANCE MEDIA
 #KODIPROP:inputstream=inputstream.adaptive

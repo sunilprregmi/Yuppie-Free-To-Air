@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-09 10:22:31",
+  "date": "2025-05-10 10:20:37",
   "feeds": [
     {
       "category_id": 1,
@@ -1148,16 +1148,6 @@
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320623043.png"
         },
         {
-          "channel_id": 54,
-          "channel_number": "295",
-          "channel_country": "IN",
-          "channel_category": "Entertainment",
-          "channel_name": "Docuvision",
-          "channel_slug": "docuvision",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mbncbj.png",
-          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322810183.png"
-        },
-        {
           "channel_id": 96,
           "channel_number": "296",
           "channel_country": "IN",
@@ -1406,16 +1396,6 @@
           "channel_slug": "jaihind-tv",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jaihind-tv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322075428.png"
-        },
-        {
-          "channel_id": 186,
-          "channel_number": "622",
-          "channel_country": "IN",
-          "channel_category": "Entertainment",
-          "channel_name": "DarshanaTV",
-          "channel_slug": "darshanatv",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/darshanatv.png",
-          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322973866.png"
         },
         {
           "channel_id": 168,
@@ -1905,16 +1885,6 @@
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736321482499.png"
         },
         {
-          "channel_id": 154,
-          "channel_number": "802",
-          "channel_country": "IN",
-          "channel_category": "Spiritual",
-          "channel_name": "Channel Win",
-          "channel_slug": "channel-win",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/channel-win.png",
-          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736323137567.png"
-        },
-        {
           "channel_id": 144,
           "channel_number": "511",
           "channel_country": "IN",
@@ -2193,26 +2163,6 @@
       "category_priority": 7,
       "channels": [
         {
-          "channel_id": 69,
-          "channel_number": "246",
-          "channel_country": "IN",
-          "channel_category": "Lifestyle",
-          "channel_name": "HD Travel TV",
-          "channel_slug": "hd-travel-tv",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hd-travel-tv.png",
-          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322594948.png"
-        },
-        {
-          "channel_id": 73,
-          "channel_number": "246",
-          "channel_country": "IN",
-          "channel_category": "Lifestyle",
-          "channel_name": "Heritage",
-          "channel_slug": "heritage",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fndjia.png",
-          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322533445.png"
-        },
-        {
           "channel_id": 4,
           "channel_number": "249",
           "channel_country": "IN",
@@ -2221,46 +2171,6 @@
           "channel_slug": "ndtv-goodtimes",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mxzyyw.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320260662.png"
-        },
-        {
-          "channel_id": 75,
-          "channel_number": "250",
-          "channel_country": "IN",
-          "channel_category": "Lifestyle",
-          "channel_name": "Heritage Tourism TV",
-          "channel_slug": "heritage-tourism-tv",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jbvjqc.png",
-          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322520251.png"
-        },
-        {
-          "channel_id": 98,
-          "channel_number": "254",
-          "channel_country": "IN",
-          "channel_category": "Lifestyle",
-          "channel_name": "4K Travel TV",
-          "channel_slug": "4k-travel-tv-",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ootail.png",
-          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326547777.png"
-        },
-        {
-          "channel_id": 254,
-          "channel_number": "305",
-          "channel_country": "IN",
-          "channel_category": "Lifestyle",
-          "channel_name": "ARAB HERITAGE TV",
-          "channel_slug": "arab-heritage-tv",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lnrukp.png",
-          "channel_poster": ""
-        },
-        {
-          "channel_id": 263,
-          "channel_number": "312",
-          "channel_country": "IN",
-          "channel_category": "Lifestyle",
-          "channel_name": "CUISINE & CULTURE",
-          "channel_slug": "cuisine---culture",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kteody.png",
-          "channel_poster": ""
         },
         {
           "channel_id": 264,
