@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-21 10:23:21",
+  "date": "2025-05-22 10:23:57",
   "feeds": [
     {
       "category_id": 1,
@@ -1783,6 +1783,16 @@
           "channel_slug": "hosanna-tv-hindi",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hosanna-tv-hindi.png",
           "channel_poster": ""
+        },
+        {
+          "channel_id": 287,
+          "channel_number": "",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Bhakti Play",
+          "channel_slug": "bhakti-play",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jnsfyb.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1747213068708.png"
         },
         {
           "channel_id": 110,
