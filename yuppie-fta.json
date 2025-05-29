@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-28 10:24:14",
+  "date": "2025-05-29 10:25:26",
   "feeds": [
     {
       "category_id": 1,
@@ -1235,6 +1235,16 @@
           "channel_name": "KARTOON CHANNEL WORLDWIDE",
           "channel_slug": "kartoon-channel-worldwide",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wwlccy.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 288,
+          "channel_number": "",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Chana Jor",
+          "channel_slug": "chana-jor",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/chana-jor.png",
           "channel_poster": ""
         },
         {
