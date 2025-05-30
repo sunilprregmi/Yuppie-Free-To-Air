@@ -1,7 +1,7 @@
 #EXTM3U
 # Only Free-To-Air Streams
 # Scrapped by @sunilprregmi
-# Scrapped on 2025-05-29 10:25:33
+# Scrapped on 2025-05-30 10:24:26
 # Relay server is for playback
 
 #EXTINF:-1 tvg-id="249" tvg-chno="204" tvg-name="india-today" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fkszrn.png" group-title="News", India Today
@@ -742,6 +742,12 @@ https://in1.sunilprasad.com.np/yuppLive/kartoon-channel-worldwide/master.m3u8
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/chana-jor/master.m3u8
 
+#EXTINF:-1 tvg-id="291" tvg-chno="" tvg-name="bollywood-masala" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bollywood-masala.jpeg" group-title="Entertainment", Bollywood Masala
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/bollywood-masala/master.m3u8
+
 #EXTINF:-1 tvg-id="131" tvg-chno="81" tvg-name="desi-play-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/desi-play-tv.png" group-title="Entertainment", Desi Play TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -933,6 +939,12 @@ https://in1.sunilprasad.com.np/yuppLive/thalaa-tv/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/kappa-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="289" tvg-chno="" tvg-name="ric-plus" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ric-plus.jpeg" group-title="Kids", RIC Plus
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/ric-plus/master.m3u8
 
 #EXTINF:-1 tvg-id="83" tvg-chno="232" tvg-name="kiddo" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kiddo.png" group-title="Kids", Kiddo
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1276,6 +1288,12 @@ https://in1.sunilprasad.com.np/yuppLive/pitaara-tv/master.m3u8
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/dabangg/master.m3u8
 
+#EXTINF:-1 tvg-id="297" tvg-chno="" tvg-name="unchained-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/unchained-tv.png" group-title="Lifestyle", UNCHAINED TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/unchained-tv/master.m3u8
+
 #EXTINF:-1 tvg-id="4" tvg-chno="249" tvg-name="ndtv-goodtimes" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mxzyyw.png" group-title="Lifestyle", NDTV GoodTimes
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1323,6 +1341,48 @@ https://in1.sunilprasad.com.np/yuppLive/cvr-health/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/ayush-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="290" tvg-chno="" tvg-name="cricket-gold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cricket-gold.png" group-title="Sports", Cricket Gold
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/cricket-gold/master.m3u8
+
+#EXTINF:-1 tvg-id="292" tvg-chno="" tvg-name="adventure-sports-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/adventure-sports-tv.png" group-title="Sports", Adventure Sports TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/adventure-sports-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="293" tvg-chno="" tvg-name="drive--speed" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/drive-speed.jpeg" group-title="Sports", Drive+ Speed
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/drive--speed/master.m3u8
+
+#EXTINF:-1 tvg-id="294" tvg-chno="" tvg-name="hunt-fish-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hunt-fish-tv.jpeg" group-title="Sports", Hunt Fish TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/hunt-fish-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="295" tvg-chno="" tvg-name="nautical-channel" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nautical-channel.png" group-title="Sports", Nautical Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/nautical-channel/master.m3u8
+
+#EXTINF:-1 tvg-id="296" tvg-chno="" tvg-name="yachting-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yachting-tv.png" group-title="Sports", Yachting TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/yachting-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="298" tvg-chno="" tvg-name="absinthe-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwtils.png" group-title="Sports", Absinthe TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://in1.sunilprasad.com.np/yuppLive/absinthe-tv/master.m3u8
 
 #EXTINF:-1 tvg-id="68" tvg-chno="271" tvg-name="fight-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fight-tv.png" group-title="Sports", Fight TV
 #KODIPROP:inputstream=inputstream.adaptive
