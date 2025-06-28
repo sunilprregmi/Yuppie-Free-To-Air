@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-27 10:28:06",
+  "date": "2025-06-28 10:27:16",
   "feeds": [
     {
       "category_id": 1,
@@ -1229,7 +1229,7 @@
         },
         {
           "channel_id": 288,
-          "channel_number": "",
+          "channel_number": "87",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "Chana Jor",
@@ -1239,7 +1239,7 @@
         },
         {
           "channel_id": 291,
-          "channel_number": "",
+          "channel_number": "84",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "Bollywood Masala",
@@ -1587,7 +1587,7 @@
       "channels": [
         {
           "channel_id": 289,
-          "channel_number": "",
+          "channel_number": "306",
           "channel_country": "IN",
           "channel_category": "Kids",
           "channel_name": "RIC Plus",
@@ -1806,7 +1806,7 @@
         },
         {
           "channel_id": 287,
-          "channel_number": "",
+          "channel_number": "91",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Bhakti Play",
@@ -2194,7 +2194,7 @@
       "channels": [
         {
           "channel_id": 297,
-          "channel_number": "",
+          "channel_number": "251",
           "channel_country": "IN",
           "channel_category": "Lifestyle",
           "channel_name": "UNCHAINED TV",
@@ -2293,7 +2293,7 @@
       "channels": [
         {
           "channel_id": 290,
-          "channel_number": "",
+          "channel_number": "264",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Cricket Gold",
@@ -2303,7 +2303,7 @@
         },
         {
           "channel_id": 292,
-          "channel_number": "",
+          "channel_number": "266",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Adventure Sports TV",
@@ -2313,7 +2313,7 @@
         },
         {
           "channel_id": 293,
-          "channel_number": "",
+          "channel_number": "267",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Drive+ Speed",
@@ -2323,7 +2323,7 @@
         },
         {
           "channel_id": 294,
-          "channel_number": "",
+          "channel_number": "268",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Hunt Fish TV",
@@ -2333,7 +2333,7 @@
         },
         {
           "channel_id": 295,
-          "channel_number": "",
+          "channel_number": "263",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Nautical Channel",
@@ -2343,7 +2343,7 @@
         },
         {
           "channel_id": 296,
-          "channel_number": "",
+          "channel_number": "262",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Yachting TV",
@@ -2353,7 +2353,7 @@
         },
         {
           "channel_id": 298,
-          "channel_number": "",
+          "channel_number": "269",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Absinthe TV",
