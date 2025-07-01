@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-30 10:32:10",
+  "date": "2025-07-01 10:35:35",
   "feeds": [
     {
       "category_id": 1,
@@ -1244,8 +1244,8 @@
           "channel_category": "Entertainment",
           "channel_name": "Bollywood Masala",
           "channel_slug": "bollywood-masala",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bollywood-masala.jpeg",
-          "channel_poster": ""
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bollywood-masala.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1751288604898.jpeg"
         },
         {
           "channel_id": 131,
@@ -1592,8 +1592,8 @@
           "channel_category": "Kids",
           "channel_name": "RIC Plus",
           "channel_slug": "ric-plus",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ric-plus.jpeg",
-          "channel_poster": ""
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ric-plus.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1751288913419.jpeg"
         },
         {
           "channel_id": 83,
@@ -2193,16 +2193,6 @@
       "category_priority": 7,
       "channels": [
         {
-          "channel_id": 297,
-          "channel_number": "251",
-          "channel_country": "IN",
-          "channel_category": "Lifestyle",
-          "channel_name": "UNCHAINED TV",
-          "channel_slug": "unchained-tv",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/unchained-tv.png",
-          "channel_poster": ""
-        },
-        {
           "channel_id": 4,
           "channel_number": "249",
           "channel_country": "IN",
@@ -2292,74 +2282,14 @@
       "category_priority": 8,
       "channels": [
         {
-          "channel_id": 290,
-          "channel_number": "264",
+          "channel_id": 284,
+          "channel_number": "",
           "channel_country": "IN",
           "channel_category": "Sports",
-          "channel_name": "Cricket Gold",
-          "channel_slug": "cricket-gold",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cricket-gold.png",
-          "channel_poster": ""
-        },
-        {
-          "channel_id": 292,
-          "channel_number": "266",
-          "channel_country": "IN",
-          "channel_category": "Sports",
-          "channel_name": "Adventure Sports TV",
-          "channel_slug": "adventure-sports-tv",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/adventure-sports-tv.png",
-          "channel_poster": ""
-        },
-        {
-          "channel_id": 293,
-          "channel_number": "267",
-          "channel_country": "IN",
-          "channel_category": "Sports",
-          "channel_name": "Drive+ Speed",
-          "channel_slug": "drive--speed",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/drive-speed.jpeg",
-          "channel_poster": ""
-        },
-        {
-          "channel_id": 294,
-          "channel_number": "268",
-          "channel_country": "IN",
-          "channel_category": "Sports",
-          "channel_name": "Hunt Fish TV",
-          "channel_slug": "hunt-fish-tv",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hunt-fish-tv.jpeg",
-          "channel_poster": ""
-        },
-        {
-          "channel_id": 295,
-          "channel_number": "263",
-          "channel_country": "IN",
-          "channel_category": "Sports",
-          "channel_name": "Nautical Channel",
-          "channel_slug": "nautical-channel",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nautical-channel.png",
-          "channel_poster": ""
-        },
-        {
-          "channel_id": 296,
-          "channel_number": "262",
-          "channel_country": "IN",
-          "channel_category": "Sports",
-          "channel_name": "Yachting TV",
-          "channel_slug": "yachting-tv",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yachting-tv.png",
-          "channel_poster": ""
-        },
-        {
-          "channel_id": 298,
-          "channel_number": "269",
-          "channel_country": "IN",
-          "channel_category": "Sports",
-          "channel_name": "Absinthe TV",
-          "channel_slug": "absinthe-tv",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwtils.png",
-          "channel_poster": ""
+          "channel_name": "Willow Sports",
+          "channel_slug": "willow-sports",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xzbzkm.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1737725799831.png"
         },
         {
           "channel_id": 68,
@@ -2472,14 +2402,74 @@
           "channel_poster": ""
         },
         {
-          "channel_id": 284,
-          "channel_number": "",
+          "channel_id": 290,
+          "channel_number": "264",
           "channel_country": "IN",
           "channel_category": "Sports",
-          "channel_name": "Willow Sports",
-          "channel_slug": "willow-sports",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xzbzkm.png",
-          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1737725799831.png"
+          "channel_name": "Cricket Gold",
+          "channel_slug": "cricket-gold",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cricket-gold.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 292,
+          "channel_number": "266",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "Adventure Sports TV",
+          "channel_slug": "adventure-sports-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/adventure-sports-tv.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 293,
+          "channel_number": "267",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "Drive+ Speed",
+          "channel_slug": "drive--speed",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/drive-speed.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1751288839963.jpeg"
+        },
+        {
+          "channel_id": 294,
+          "channel_number": "268",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "Hunt Fish TV",
+          "channel_slug": "hunt-fish-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hunt-fish-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1751288932411.jpeg"
+        },
+        {
+          "channel_id": 295,
+          "channel_number": "263",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "Nautical Channel",
+          "channel_slug": "nautical-channel",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nautical-channel.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 298,
+          "channel_number": "269",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "Absinthe TV",
+          "channel_slug": "absinthe-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwtils.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 296,
+          "channel_number": "262",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "Yachting TV",
+          "channel_slug": "yachting-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yachting-tv.png",
+          "channel_poster": ""
         }
       ]
     },
