@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-01 10:35:35",
+  "date": "2025-07-02 10:29:22",
   "feeds": [
     {
       "category_id": 1,
@@ -1913,6 +1913,16 @@
           "channel_slug": "lakshyatv",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lakshyatv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736321482499.png"
+        },
+        {
+          "channel_id": 299,
+          "channel_number": "",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Sri Naga Sai Mandir",
+          "channel_slug": "sri-naga-sai-mandir",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sri-naga-sai-mandir.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1751370372570.jpeg"
         },
         {
           "channel_id": 144,
