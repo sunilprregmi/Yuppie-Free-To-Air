@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-10 10:31:27",
+  "date": "2025-07-11 10:35:12",
   "feeds": [
     {
       "category_id": 1,
@@ -915,8 +915,8 @@
           "channel_category": "News",
           "channel_name": "Manorama News",
           "channel_slug": "manorama-news",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/manorama-news.png",
-          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320502268.png"
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pnahka.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1752168631956.png"
         },
         {
           "channel_id": 174,
